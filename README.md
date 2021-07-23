@@ -1,5 +1,5 @@
 # learn_java_functional
 
-Paradigma que visualiza a computação como uma avaliação de funcções matemáticas e que evita estado ou dados mutáveis.
+Paradigma que visualiza a computaÃ§Ã£o como uma avaliaÃ§Ã£o de funÃ§Ãµes matemÃ¡ticas e que evita estado ou dados mutÃ¡veis.
 
-Enfatiza qua a solução seja mapeada como funcções sem estado
+Enfatiza qua a soluÃ§Ã£o seja mapeada como funÃ§Ãµes sem estado
